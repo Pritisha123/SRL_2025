@@ -1,0 +1,16 @@
+1; 
+.User Account : Each employee has their own login.
+.Shared Folder with permissions:Only the right department can access its own folder,protecting data.
+.login software:users must log in with their credentials for security.
+
+2;
+:Access is denied because the production employee is´nt allowed to see HR files.It protects sensitive data.
+
+3;
+:To make sure only the right person logs in and track what each user does.
+
+4;
+:The Nos control printer access so only HR and Admin can use it keep it private and organized.
+
+5;
+:The NOS records failed logins and access attempts.The admin check login to spot unauthorized action .
